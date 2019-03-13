@@ -1,0 +1,25 @@
+{
+  "name": "conceptchainjs",
+  "version": "0.0.1",
+  "description": "Proof of concept blockchain network ",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp01010011/conceptchainJS.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Javascript",
+    "NodeJS",
+    "Proof Of Concept"
+  ],
+  "author": "Abdikadir Adan (Sharif)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sp01010011/conceptchainJS/issues"
+  },
+  "homepage": "https://github.com/sp01010011/conceptchainJS#readme"
+}
